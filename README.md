@@ -1,5 +1,3 @@
-# Bioinformatics-and-Biological-Modeling-Scripts
-Bioinformatics and Biological Modeling Scripts for Beginners
 # Bioinformatics and Biological Modeling Scripts
 
 This repository is a collection of standalone Python examples for exploring biological systems with numerical models, stochastic simulations, and basic statistical analysis. The scripts use synthetic or hard-coded inputs, run independently, and either display a plot or print a statistical result. There is no shared application entry point or command-line configuration.
